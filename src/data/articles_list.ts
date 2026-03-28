@@ -4,6 +4,16 @@ export default [
     url: "https://idealclover.top/articles.html",
     articles: [
       {
+        title: "关于 AI 的一些形而上思考",
+        url: "https://idealclover.top/archives/647",
+        time: "2024.11.17",
+      },
+      {
+        title: "2026 年，从「记笔记」到「积累数字资产」",
+        url: "https://idealclover.top/archives/646",
+        time: "2024.11.09",
+      },
+      {
         title: "再赴一场盛夏：写给下一个五年",
         url: "https://idealclover.top/archives/644",
         time: "2025.08.31",
@@ -17,16 +27,6 @@ export default [
         title: "所以我放弃了双持—兼谈折叠屏手机使用体验",
         url: "https://idealclover.top/archives/642",
         time: "2024.12.31",
-      },
-      {
-        title: "好评喵：轻松生成商品 / 服务评价",
-        url: "https://idealclover.top/archives/641",
-        time: "2024.11.17",
-      },
-      {
-        title: "2024 Q3 总结：灰烬里重新生根发芽",
-        url: "https://idealclover.top/archives/640",
-        time: "2024.11.09",
       }
     ],
   },
@@ -97,6 +97,16 @@ export default [
     url: "https://idealclover.top/category/thinking",
     articles: [
       {
+        title: "关于 AI 的一些形而上思考",
+        url: "https://idealclover.top/archives/647",
+        time: "2024.11.17",
+      },
+      {
+        title: "2026 年，从「记笔记」到「积累数字资产」",
+        url: "https://idealclover.top/archives/646",
+        time: "2024.11.09",
+      },
+      {
         title: "所以我放弃了双持—兼谈折叠屏手机使用体验",
         url: "https://idealclover.top/archives/642",
         time: "2024.12.31",
@@ -110,16 +120,6 @@ export default [
         title: "关于《后浪》，随便写点什么",
         url: "https://idealclover.top/archives/621",
         time: "2020.05.04",
-      },
-      {
-        title: "我看好 Fluent Design，但不看好微软",
-        url: "https://idealclover.top/archives/615",
-        time: "2020.04.12",
-      },
-      {
-        title: "身份、立场与偏见：为什么互联网愈发“水火不容”",
-        url: "https://idealclover.top/archives/614",
-        time: "2020.04.03",
       },
     ],
   },
