@@ -4,29 +4,29 @@ export default [
     url: "https://idealclover.top/articles.html",
     articles: [
       {
+        title: "【27 岁生贺】1，6，8，10，27，10000",
+        url: "https://idealclover.top/archives/649",
+        time: "2026.05.18",
+      },
+      {
+        title: "你的数据非常重要：个人知识库管理实践",
+        url: "https://idealclover.top/archives/648",
+        time: "2026.04.19",
+      },
+      {
         title: "关于 AI 的一些形而上思考",
         url: "https://idealclover.top/archives/647",
-        time: "2024.11.17",
+        time: "2026.03.15",
       },
       {
         title: "2026 年，从「记笔记」到「积累数字资产」",
         url: "https://idealclover.top/archives/646",
-        time: "2024.11.09",
+        time: "2026.02.17",
       },
       {
         title: "再赴一场盛夏：写给下一个五年",
         url: "https://idealclover.top/archives/644",
         time: "2025.08.31",
-      },
-      {
-        title: "咕咕了一年的新个人主页介绍",
-        url: "https://idealclover.top/archives/643",
-        time: "2025.03.07",
-      },
-      {
-        title: "所以我放弃了双持—兼谈折叠屏手机使用体验",
-        url: "https://idealclover.top/archives/642",
-        time: "2024.12.31",
       }
     ],
   },
@@ -66,6 +66,11 @@ export default [
     url: "https://idealclover.top/category/life",
     articles: [
       {
+        title: "【27 岁生贺】1，6，8，10，27，10000",
+        url: "https://idealclover.top/archives/649",
+        time: "2026.05.18",
+      },
+      {
         title: "再赴一场盛夏：写给下一个五年",
         url: "https://idealclover.top/archives/644",
         time: "2025.08.31",
@@ -84,11 +89,6 @@ export default [
         title: "再见了，大小周",
         url: "https://idealclover.top/archives/629",
         time: "2021.11.07",
-      },
-      {
-        title: "2020 年年终总结：致即将 22 岁的自己",
-        url: "https://idealclover.top/archives/627",
-        time: "2021.05.01",
       }
     ],
   },
@@ -97,14 +97,19 @@ export default [
     url: "https://idealclover.top/category/thinking",
     articles: [
       {
+        title: "你的数据非常重要：个人知识库管理实践",
+        url: "https://idealclover.top/archives/648",
+        time: "2026.04.19",
+      },
+      {
         title: "关于 AI 的一些形而上思考",
         url: "https://idealclover.top/archives/647",
-        time: "2024.11.17",
+        time: "2026.03.15",
       },
       {
         title: "2026 年，从「记笔记」到「积累数字资产」",
         url: "https://idealclover.top/archives/646",
-        time: "2024.11.09",
+        time: "2026.02.17",
       },
       {
         title: "所以我放弃了双持—兼谈折叠屏手机使用体验",
@@ -115,12 +120,7 @@ export default [
         title: "应急储备包制作经验分享：打造个人应急 “救生圈”",
         url: "https://idealclover.top/archives/639",
         time: "2024.09.30",
-      },
-      {
-        title: "关于《后浪》，随便写点什么",
-        url: "https://idealclover.top/archives/621",
-        time: "2020.05.04",
-      },
+      }
     ],
   },
 
